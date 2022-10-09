@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba30a5594128f52409e8485c43542ab7, type: 3}
+  m_Name: SebixRanged
+  m_EditorClassIdentifier: 
+  NameScriptable: SebixRange
+  Fraction: 0
+  PawnType: 1
+  AttackDemage: 30
+  AttackSpeed: 2
+  AttackRange: 4
+  HP: 75
+  MaxHP: 75
+  Speed: 1.5
+  TimeToSpawnUnit: 2
+  GoldForKilling: 35
+  GoldToSpawn: 25
+  ExpForKilling: 60
+  CriticChange: 3
+  icon: {fileID: 21300000, guid: 6576592119844e1468561d09261218af, type: 3}

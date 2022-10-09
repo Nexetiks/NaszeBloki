@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2bdf080240edec4384185148988b1c3, type: 3}
+  m_Name: SebixFaction
+  m_EditorClassIdentifier: 
+  faction: 0
+  warriorUnit: {fileID: 11400000, guid: ae6393aec2cef3142a8a3f45ad944add, type: 2}
+  rangedUnit: {fileID: 11400000, guid: 0d777d17c30c37442b90604b04067bc3, type: 2}
+  specialUnit: {fileID: 11400000, guid: 1488c45153feab84a97f22229b94b21b, type: 2}
+  expNeeded: 2000

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2df310cc2feba8d49ac324b32da3e503
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectToThrow: {instanceID: 0}
+  - Kosciol: {fileID: 999160262602050641, guid: 17bcc72facfd32145aea20deb524d302, type: 3}
+  - Papaj: {fileID: 1260211857317312877, guid: 7216e8acb9a2f3d40b2d79201ba47be0, type: 3}
+  - Sebix: {fileID: 2699888407179640776, guid: 90f048cc589512b419d52b924953089e, type: 3}
+  - Moher: {fileID: 5293313599490724332, guid: 74df7b0b5a127b14b9e9d60997b895a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

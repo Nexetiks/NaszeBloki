@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ac8d34e65b1fd814386cbe8d2f44eb27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SebixWarrior: {fileID: 11400000, guid: ae6393aec2cef3142a8a3f45ad944add, type: 2}
+  - SebixRanged: {fileID: 11400000, guid: 0d777d17c30c37442b90604b04067bc3, type: 2}
+  - SebixSpecial: {fileID: 11400000, guid: 1488c45153feab84a97f22229b94b21b, type: 2}
+  - MoherWarrior: {fileID: 11400000, guid: 114406027023eea46973f01fae07fc05, type: 2}
+  - MoherRanger: {fileID: 11400000, guid: 5e89d402dcff7b54bbbd9d2f581d4c62, type: 2}
+  - MoherSpecial: {fileID: 11400000, guid: 94d2428e9591569488212432fe69bc4f, type: 2}
+  - KlerWarrior: {fileID: 11400000, guid: 153939c91cfeb2d4591386924949b236, type: 2}
+  - KlerRanged: {fileID: 11400000, guid: f164b51e97944fb4996de97ebd00ee54, type: 2}
+  - KlerSpecial: {fileID: 11400000, guid: b84ab73aa8382524f8cc2001c7a306e2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
